@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/nastyox/Repo-Roster#nastyox"><img src="https://reporoster.com/images/logo-black-and-purple.svg" alt="Repo roster logo" width="70"/></a></p>
+<p align="center"><a href="https://github.com/nastyox/Repo-Roster#nastyox"><img src="https://reporoster.com/images/circle-logo.png" alt="Repo roster logo" width="70"/></a></p>
 <h1 align="center">Repo Roster</h1>
 <p align="center">Shout-out supporters in your GitHub README file.</p>
 
