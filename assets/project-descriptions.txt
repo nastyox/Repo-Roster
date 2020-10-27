@@ -1,0 +1,14 @@
+225 CHARACTERS:
+Isn't it time to reward people that star and fork your GitHub repositories? Repo Roster is a simple copy-and-paste way to automatically thank those users by displaying their usernames and avatars directly in your README file!
+
+126 CHARACTERS:
+Repo Roster gives you simple markdown for your GitHub repo that'll automatically shout-out your recent stargazers and forkers.
+
+73 CHARACTERS:
+Repo Roster: Shout-out stargazers and forkers in your GitHub README file.
+
+61 CHARACTERS:
+Repo Roster: Shout-out supporters in your GitHub README file.
+
+46 CHARACTERS:
+Repo Roster: Shout-out your GitHub supporters.
