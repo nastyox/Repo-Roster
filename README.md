@@ -28,7 +28,7 @@ To get your own repo rosters, just paste a link to your GitHub repository into [
 <p align="center"><a href="https://github.com/nastyox/Repo-Roster#nastyox"><img src="https://reporoster.com/images/bar.png" alt="Separation bar" width="650"/></a></p>
 
 ## :clap:  Support this project
-This project requires some server-side processing, which isn't free. If you'd like to support Repo Roster and ensure that it's able to keep up with users' demands speedily, please consider clicking the "sponsor" button at the [top of this page](https://github.com/nastyox/Repo-Roster).
+This project requires some server-side processing, which isn't free. If you'd like to support Repo Roster and ensure that it's able to keep up with users' demands speedily, please consider clicking the "sponsor" button at the [top of this page](https://github.com/nastyox/Repo-Roster#).
 <br/>  
 <br/>  
 <p align="center"><a href="https://github.com/nastyox/Repo-Roster#"><img src="http://randojs.com/images/backToTopButton.png" alt="Back to top" height="29"/></a></p>
