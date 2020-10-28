@@ -15,9 +15,9 @@
     
     //FUNCTIONS-------------------------------------------
     function getGitHubAPIKey(){
-      //FILL THIS IN YOURSELF IF YOU'RE HOSTING THIS. GET AN API KEY AS FOLLOWS:
-      //https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
-      return "";
+        //FILL THIS IN YOURSELF IF YOU'RE HOSTING THIS. GET AN API KEY AS FOLLOWS:
+        //https://docs.github.com/en/free-pro-team@latest/github/authenticating-to-github/creating-a-personal-access-token
+        return "";
     }
     
     $widths = array();
