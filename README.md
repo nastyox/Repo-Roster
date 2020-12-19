@@ -25,7 +25,7 @@ Isn't it time to say "thank you" to people that star and fork our repositories? 
 
 To get your own repo rosters, just paste a link to your GitHub repository into [our website](https://reporoster.com), and we'll generate simple markdown for you to paste into your repo's README.md file. **That's all there is to it!** From then on, data about your supporters will automatically update right in your README.md file.
 
-<p align="center"><a href="https://github.com/nastyox/Repo-Roster#nastyox"><img src="https://reporoster.com/images/bar.png" alt="Separation bar" width="650"/></a></p>
+<p align="center"><a href="https://github.com/nastyox/Repo-Roster#nastyox"><img src="https://reporoster.com/images/hr.png" alt="Separation bar" width="650"/></a></p>
 
 ## :clap:  Support this project
 This project requires some server-side processing, which isn't free. If you'd like to support Repo Roster and ensure that it's able to keep up with users' demands speedily, please consider clicking the "sponsor" button at the [top of this page](https://github.com/nastyox/Repo-Roster#).
