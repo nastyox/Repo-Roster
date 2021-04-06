@@ -5,7 +5,7 @@
 <p align="center"><a href="https://github.com/nastyox/Repo-Roster#nastyox"><img src="https://reporoster.com/images/reporosterdemo7.gif" alt="Repo roster demo" width="500"/></a></p>
 
 ## :hear_no_evil:  What's all the hullabaloo?  
-Isn't it time to say "thank you" to people that star and fork our repositories? Their interaction means so much to us, but we don't always get to show it. [Repo Roster](https://reporoster.com) is a simple copy-and-paste way to automatically reward those users by displaying their usernames and avatars directly in your README.md file!
+Want to say "thank you" to people that star and fork your repositories? [Repo Roster](https://reporoster.com) is a simple copy-and-paste way to automatically shout-out those users by displaying their usernames and avatars directly in your README.md file!
 
 ## :tada:  Live Examples (for this repo)
 
