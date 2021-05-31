@@ -7,6 +7,7 @@
 ## :hear_no_evil:  What's all the hullabaloo?  
 Want to say "thank you" to people that star and fork your repositories? [Repo Roster](https://reporoster.com) is a simple copy-and-paste way to automatically shout-out those users by displaying their usernames and avatars directly in your README.md file!
 
+
 ## :tada:  Live Examples (for this repo)
 
 ### &#8627; Stargazers
@@ -20,6 +21,12 @@ Want to say "thank you" to people that star and fork your repositories? [Repo Ro
 ```markdown
 [![Forkers repo roster for @USERNAME/REPO_NAME](https://reporoster.com/forks/USERNAME/REPO_NAME)](https://github.com/USERNAME/REPO_NAME/network/members)
 ```
+
+
+## :art: Custom styling
+
+Prefer dark mode? Don't want any text? We've got you covered! Find the image URL in the markdown provided above, and add ```/dark``` and/or ```/notext``` before ```/USERNAME/REPO_NAME```! Or, skip editing the markdown yourself by using our [online tool](https://reporoster.com) instead. 
+
 
 ## :zap:  Fast implementation 
 
